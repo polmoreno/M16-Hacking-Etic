@@ -22,13 +22,20 @@ lorem
 
 Per veure els resultats els redigirem a tots a una carpeta per tenir-ho tot ben endreçat.
 
-![Alt Image](./Images/exiftool_final.png)
+![Alt Image](./Images/exiftool_total.png)
 
 Seguidament les analitzem totes una per una.
 
+El 00000033.ole:
 ![Alt Image](./Images/33.png)
+
+El 00000124.ole:
 ![Alt Image](./Images/124.png)
+
+El 00000165.ole:
 ![Alt Image](./Images/165.png)
+
+El 00000207.ole:
 ![Alt Image](./Images/207.png)
 
 
