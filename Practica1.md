@@ -36,8 +36,8 @@ Forensics/Autopsy (Windows && JDK)
 #### Amb aquest programa, carrega la imatge RAW anterior, i analitzala.
 
 ```
-¿Que trobes?  
-¿Pots llegir alguna informació? En cas afirmatiu, ¿Quina?  
+● ¿Que trobes?  
+● ¿Pots llegir alguna informació? En cas afirmatiu, ¿Quina?  
 ```
 
 
@@ -45,14 +45,14 @@ Forensics/Autopsy (Windows && JDK)
 
 ## Anàlisi amb Foremost i testdisk
 
-#### Des de una màquina Kali/Debian, executa el foremost, torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
+#### Des de una màquina Kali/Debian, executa el [foremost](https://www.kali.org/tools/foremost/), torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
 
 Primer de tot he buscat informació de com funciona el foremost ja que no le utilitzat mai i seguidament he aconseguit el seguent:
 ![Alt Image](./Images/foremost1.png)
 
 
 
-#### Des de una màquina Kali/Debian, executa el testdisk, torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
+#### Des de una màquina Kali/Debian, executa el [testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download), torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
 
 lorem
 
@@ -62,7 +62,7 @@ lorem
 
 ## Anàlisi amb Exiftool
 
-#### Des de una màquina Kali/Debian, executa Exiftool, carrega els fitxers trobats anteriorment i analitza'ls.
+#### Des de una màquina Kali/Debian, executa [Exiftool](https://exiftool.org/), carrega els fitxers trobats anteriorment i analitza'ls.
 
 Per veure els resultats els redigirem a tots a una carpeta per tenir-ho tot ben endreçat.
 
@@ -99,7 +99,7 @@ Com a informació interessant destacar que ens ensenya la data de creació i la 
 
 #### Examina els arxius i troba l’evidència de les sospites del Sr. Boss
 
-#### Per últim mirarem que aquest quart ja no es un arxiu doc i que esta protegit amb una contrasenya (ho veurem en el apartat de Security). Obrim aquest arxiu en un format Excel com ens deixa clar en les metadades. Només entrar veurem que aquest document està protegit amb un contrasenya. La qual intentarem vulnerar amb el programa JohnTheRipper. 
+#### Per últim mirarem que aquest quart ja no es un arxiu doc i que esta protegit amb una contrasenya (ho veurem en el apartat de Security). Obrim aquest arxiu en un format Excel com ens deixa clar en les metadades. Només entrar veurem que aquest document està protegit amb un contrasenya. La qual intentarem vulnerar amb el programa [JohnTheRipper](https://www.openwall.com/john/). 
 
 ```
 2. Què va fer la senyora Crook en aquest interval de temps?  
