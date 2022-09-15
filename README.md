@@ -1,3 +1,3 @@
 # M16-Hacking-Etic
 
-## [Practica 1](practica1)
+## [Practica 1](practica1.md)
