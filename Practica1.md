@@ -39,7 +39,7 @@ Forensics/Autopsy (Windows && JDK)
 
 Executem l'autopsy sobre l'arxiu RAW i trobem el seguent:  
 
-![Alt Image](./Images/autopsy.png)
+![Alt Image](./Images/ImagesPractica1/autopsy.png)
 
 
 ```
@@ -58,7 +58,7 @@ Podem llegir gran part del contingut de els Microsoft Words i també podem veure
 #### Des de una màquina Kali/Debian, executa el [foremost](https://www.kali.org/tools/foremost/), torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
 
 Primer de tot he buscat informació de com funciona el foremost ja que no le utilitzat mai i seguidament he aconseguit el seguent:
-![Alt Image](./Images/foremost1.png)
+![Alt Image](./Images/ImagesPractica1/foremost1.png)
 
 
 
@@ -76,21 +76,21 @@ lorem
 
 Per veure els resultats els redigirem a tots a una carpeta per tenir-ho tot ben endreçat.
 
-![Alt Image](./Images/exiftool_total.png)
+![Alt Image](./Images/ImagesPractica1/exiftool_total.png)
 
 Seguidament les analitzem totes una per una.
 
 El 00000033.ole:  
-![Alt Image](./Images/33.png)
+![Alt Image](./Images/ImagesPractica1/33.png)
 
 El 00000124.ole:  
-![Alt Image](./Images/124.png)
+![Alt Image](./Images/ImagesPractica1/124.png)
 
 El 00000165.ole:  
-![Alt Image](./Images/165.png)
+![Alt Image](./Images/ImagesPractica1/165.png)
 
 El 00000207.ole:  
-![Alt Image](./Images/207.png)
+![Alt Image](./Images/ImagesPractica1/207.png)
 
 
 ```
@@ -112,16 +112,16 @@ Com a informació interessant destacar que ens ensenya la data de creació i la 
 #### Per últim mirarem que aquest quart ja no es un arxiu doc i que esta protegit amb una contrasenya (ho veurem en el apartat de Security). Obrim aquest arxiu en un format Excel com ens deixa clar en les metadades. Només entrar veurem que aquest document està protegit amb un contrasenya. La qual intentarem vulnerar amb el programa [JohnTheRipper](https://www.openwall.com/john/). 
 
 Primer de tot clonem el repositori del JTR del github.  
-![Alt Image](./Images/gitclone.png)
+![Alt Image](./Images/ImagesPractica1/gitclone.png)
 
 Un cop hem clonat el repository hem d'aconseguir el hash, aixó ho farem de la seguent manera:  
-![Alt Image](./Images/hashJTR.png)
+![Alt Image](./Images/ImagesPractica1/hashJTR.png)
 
 I per ultim he de utilitzar el JohnTheRipper per aconseguir la contrasenya mitjançant el hash i una wordlist, en aquest cas he triat la rockyou ja que és una de les més completes.  
-![Alt Image](./Images/passwd.png)
+![Alt Image](./Images/ImagesPractica1/passwd.png)
 
 I ja podriem accedir al excel utilitzanrt la contrasenya aconseguida "crook".
-![Alt Image](./Images/dinsExcel.png)
+![Alt Image](./Images/ImagesPractica1/dinsExcel.png)
 
 
 ```
