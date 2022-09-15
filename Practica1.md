@@ -37,9 +37,17 @@ Forensics/Autopsy (Windows && JDK)
 #### Des de una màquina windows, baixa i instal·la l'[Autopsy](https://www.autopsy.com/)
 #### Amb aquest programa, carrega la imatge RAW anterior, i analitzala.
 
+Executem l'autopsy sobre l'arxiu RAW i trobem el seguent:  
+
+![Alt Image](./Images/autopsy.png)
+
+
 ```
 ● ¿Que trobes?  
+Veiem que als "Deleted Files" hi ha 3 arxius, dos Microsoft Word i un Microsoft Excel.
+
 ● ¿Pots llegir alguna informació? En cas afirmatiu, ¿Quina?  
+Podem llegir gran part del contingut de els Microsoft Words i també podem veure la metadata dels arxius.
 ```
 
 
