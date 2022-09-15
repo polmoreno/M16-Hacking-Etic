@@ -101,6 +101,16 @@ Com a informació interessant destacar que ens ensenya la data de creació i la 
 
 #### Per últim mirarem que aquest quart ja no es un arxiu doc i que esta protegit amb una contrasenya (ho veurem en el apartat de Security). Obrim aquest arxiu en un format Excel com ens deixa clar en les metadades. Només entrar veurem que aquest document està protegit amb un contrasenya. La qual intentarem vulnerar amb el programa [JohnTheRipper](https://www.openwall.com/john/). 
 
+Primer de tot clonem el repositori del JTR del github.  
+![Alt Image](./Images/gitclone.png)
+
+Un cop hem clonat el repository hem d'aconseguir el hash, aixó ho farem de la seguent manera:  
+![Alt Image](./Images/hashJTR.png)
+
+I per ultim he de utilitzar el JohnTheRipper per aconseguir la contrasenya extreta amb el hash mitjançant una wordlist, en aquest cas he triat la rockyou ja que és una de les més completes.  
+![Alt Image](./Images/passwd.png)
+
+
 ```
 2. Què va fer la senyora Crook en aquest interval de temps?  
 
