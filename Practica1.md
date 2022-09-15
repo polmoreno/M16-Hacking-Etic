@@ -120,14 +120,17 @@ Un cop hem clonat el repository hem d'aconseguir el hash, aixó ho farem de la s
 I per ultim he de utilitzar el JohnTheRipper per aconseguir la contrasenya mitjançant el hash i una wordlist, en aquest cas he triat la rockyou ja que és una de les més completes.  
 ![Alt Image](./Images/passwd.png)
 
-I ja podriem accedir al excel utilitzanrt la contrasenya aconseguida "croock".
+I ja podriem accedir al excel utilitzanrt la contrasenya aconseguida "crook".
 ![Alt Image](./Images/dinsExcel.png)
 
 
 ```
 2. Què va fer la senyora Crook en aquest interval de temps?  
+Va editar, borrar i assignar-li una contrasenya als arxius.
 
 3. Quines evidències has trobat?  
+He trobat un document Excel incriminatori, ja que hi ha escrit "This is evidence that Emma Crook was selling insider information to competitors." per el que podem assegurar que la Sra.Crook és culpable.
 
 4. Ho podries demostrar devant del Jutge?  
+Ho podria presentar tot davant del jutge ja que està tot ben documentat i guardat.
 ```
