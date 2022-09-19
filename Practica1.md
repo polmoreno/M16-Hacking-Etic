@@ -64,7 +64,7 @@ Primer de tot he buscat informació de com funciona el foremost ja que no le uti
 
 #### Des de una màquina Kali/Debian, executa el [testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download), torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
 
-lorem
+No se puede.
 
 
 
