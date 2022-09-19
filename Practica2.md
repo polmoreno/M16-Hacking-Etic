@@ -4,17 +4,16 @@
 
 ## Introducción
 
-Eines
-
+#### Eines
 ```
 Windows
 Autopsy
 Kali Linux
 Testdisk (command line)
-file, exiftool, rar, https://hexed.it/
+file, exiftool, rar, [https://hexed.it/](https://hexed.it/)
 ```
-Lliureu un document en format PDF amb els passos que heu seguit i la resposta a les
-preguntes que es plantejen
+
+#### Lliureu un document en format PDF amb els passos que heu seguit i la resposta a les preguntes que es plantejen
 
 ## 11
 
@@ -55,7 +54,7 @@ También te han pedido que intentes obtener alguna prueba o evidencia de que Mar
 Flores es el famoso ladrón de bancos, ya que por el momento no tienen suficientes
 pruebas para meterle en la cárcel a él y a su nuevo cómplice.
 
-RAW
+[RAW](./RAWs/USB_Marino)
 
 ## 12
 
@@ -64,7 +63,7 @@ RAW
 ```
 Forensics / autopsy
 ```
-Desde una màquina windows, baja e instala l'Autopsy
+Desde una màquina windows, baja e instala l'[Autopsy](https://www.autopsy.com/)
 
 Con este programa, carga la imagen RAW anterior, y analitzala.
 
@@ -76,7 +75,7 @@ Con este programa, carga la imagen RAW anterior, y analitzala.
 
 ## Análisis testdisk Linux
 
-Desde una màquina Kali/Debian, ejecuta testdisk, vuelve a cargar la imagen RAW
+Desde una màquina Kali/Debian, ejecuta [testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download), vuelve a cargar la imagen RAW
 anterior, analitzala y compara los resultados.
 
 ## 14
@@ -98,7 +97,7 @@ pruebas falsas o haber modificado algún archivo.
 
 Autopsy Forensic.
 testdisk
-https://hexed.it/
+[https://hexed.it/](https://hexed.it/)
 WinRar
 
 
