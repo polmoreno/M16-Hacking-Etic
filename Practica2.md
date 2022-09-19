@@ -1,22 +1,4 @@
-# MÒDUL 16 – Ciberseguretat i hacking ètic
-
-## UNITAT FORMATIVA 1
-
-# Ciberseguretat i ciberintel·ligència
-
-## Pràctica 1.
-
-# Anàlisi forense II
-
-## Victor Marquina
-
-## Index de continguts
-
-1. Introducción
-    1.1 Escenario
-    1.2 Análisis Autopsy Windows
-    1.3 Análisis testdisk Linux
-    1.4 Pistas
+# Pràctica 2 - Anàlisi forense II
 
 ## 1
 
