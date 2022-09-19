@@ -23,7 +23,7 @@ Forensics/Autopsy (Windows && JDK)
 
 #### Avui és 15 de setembre de 2004. L'hora són les 3:15 PM. El senyor Jim Boss, el propietari de la Really Big Company, et truca per a què vagis a la seva oficina. El senyor Boss et comenta que sospita que la seva assistent, Emma Crook, estava proporcionant material sensible de l'empresa a alguns dels seus competidors. A les 2:00 PM, avui truca a la Sra Crook i li comenta les seves sospites. Li diu que tornaria a les 3:00 PM per a una explicació. Quan el senyor Boss torna a l'oficina de la Sra. Crook a les 3:00 PM, ella no hi és, i ha buidat el despatx de totes les seves pertinences. El senyor Boss intenta encendre l'ordinador de la senyora Crook, però no arrenca. Examinant l’habitació, troba un disquet a la paperera. El senyor Boss t’entrega el disquet i vol que li expliquis exactament el que la Sra. Crook estava fent. El primer que fas es comprovar l’ordinador, i trobes que li falta el disc dur. Així doncs, l’única prova que tenim és un disquet. Un cop ja al teu despatx, introdueixes el disquet i descobreixes que no hi ha res, és a dir, l’han formatejat.  
 
-#### Fas una còpia del mateix i obtens un fitxer [RAW](./P2.2.001) amb el què treballaràs.  
+#### Fas una còpia del mateix i obtens un fitxer [RAW](./RAWs/P2.2.001) amb el què treballaràs.  
 
 ```1. Documenta i descriu tot el procés de la teva investigació (amb captures de pantalla, comentant tots els passos seguits).```
 
