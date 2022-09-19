@@ -10,7 +10,7 @@ Windows
 Autopsy
 Kali Linux
 Testdisk (command line)
-file, exiftool, rar, [https://hexed.it/](https://hexed.it/)
+file, exiftool, rar, https://hexed.it/
 ```
 
 #### Lliureu un document en format PDF amb els passos que heu seguit i la resposta a les preguntes que es plantejen
