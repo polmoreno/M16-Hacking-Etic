@@ -75,8 +75,50 @@ Con este programa, carga la imagen RAW anterior, y analitzala.
 
 ## Análisis testdisk Linux
 
-Desde una màquina Kali/Debian, ejecuta [testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download), vuelve a cargar la imagen RAW
-anterior, analitzala y compara los resultados.
+Desde una màquina Kali/Debian, ejecuta [testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download), vuelve a cargar la imagen RAW anterior, analitzala y compara los resultados.
+
+Primer de tot obrirem la imatge RAW amb el testdisk de la següent manera:  
+![Alt Image](./Images/ImagesPractica2/testdisk0.png)
+
+I aconseguim veure que podem recuperar uns quants arxius, ens els baixem per poder treballar-hi.  
+![Alt Image](./Images/ImagesPractica2/testdisk1.png)  
+
+![Alt Image](./Images/ImagesPractica2/testdisk1.png)
+
+Veiem que té una captura d'un correu enviat al seu company. El correu va per a un tal "Ricky77@gmail.com".  
+![Alt Image](./Images/ImagesPractica2/capturaGmail.png)
+
+Segons el correu diu que els detalls de la misió són dins el document comprimit. L'intentem descomprimir però veiem que està protegit per una contrasenya.  
+![Alt Image](./Images/ImagesPractica2/unrarContra.png)
+
+Se suposa que la pista per aconseguir la contrasenya i poder obrir el rar està a la imatge adjuntada anomenada "banco.jpg". Intentarem investigar utilitzant la comanda "hexeditor" del kali que ens ensenyara detalls de la imatge. I després d'una estona investigan me n'adono que hi ha una paraula escrita al final del document, ho provo de contrasenya i efectivament tenim la contrasenya.  
+![Alt Image](./Images/ImagesPractica2/contra.png)
+
+Introduïm la contrasenya i ens descomprimeix diferents arxius.  
+![Alt Image](./Images/ImagesPractica2/extract.png)
+
+Els posem a una nova carpeta per tenir-ho tot ben ordenat.  
+![Alt Image](./Images/ImagesPractica2/extractls.png)
+
+Quan obrim l'arxiu de "dia objetivo" podem veure que hi ha alguna cosa escrita en Morse. Ho pasem per un traductor i obtenim el dia. **29/01/2019**  
+![Alt Image](./Images/ImagesPractica2/morse.png)  
+![Alt Image](./Images/ImagesPractica2/diaObjetivo.png)
+
+Seguidament intentem obrir les altres dues imatges trobades. La "captura instagram" no la podem obrir.  
+![Alt Image](./Images/ImagesPractica2/captInstaCorrupte.png)
+
+I a l'imatge de "hexadecimal" veiem que hi ha la paraula "JFIF" que és un format d'imatge, aixó em fa pensar que la "captura instagram" se li ha de canviar el format a "JFIF" però no aconsegueixo que funcioni.  
+![Alt Image](./Images/ImagesPractica2/hexadecimal.png)  
+![Alt Image](./Images/ImagesPractica2/captJFIF.png)
+
+Investigant una mica m'he n'adono que l'imatge "hexadecimal" té el mateix contingut que quan obro la "captura instagram" amb l'editor hexadecimal, però té un numero diferent. El canvio per el mateix que la imatge "hexadecimal".  
+![Alt Image](./Images/ImagesPractica2/comparació.png)
+
+Canvïo el numero i obro la imatge.  
+![Alt Image](./Images/ImagesPractica2/canviInsta.png)  
+![Alt Image](./Images/ImagesPractica2/instaFinal.png)
+
+
 
 ## 14
 
