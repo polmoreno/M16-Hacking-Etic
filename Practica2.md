@@ -101,7 +101,6 @@ Els posem a una nova carpeta per tenir-ho tot ben ordenat.
 ![Alt Image](./Images/ImagesPractica2/extractls.png)
 
 Quan obrim l'arxiu de "dia objetivo" podem veure que hi ha alguna cosa escrita en Morse. Ho pasem per un traductor i obtenim el dia. **29/01/2019**  
-![Alt Image](./Images/ImagesPractica2/morse.png)  
 ![Alt Image](./Images/ImagesPractica2/diaObjetivo.png)
 
 Seguidament intentem obrir les altres dues imatges trobades. La "captura instagram" no la podem obrir.  
