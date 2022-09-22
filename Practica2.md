@@ -83,7 +83,7 @@ Primer de tot obrirem la imatge RAW amb el testdisk de la següent manera:
 I aconseguim veure que podem recuperar uns quants arxius, ens els baixem per poder treballar-hi.  
 ![Alt Image](./Images/ImagesPractica2/testdisk1.png)  
 
-![Alt Image](./Images/ImagesPractica2/testdisk1.png)
+![Alt Image](./Images/ImagesPractica2/tree.png)
 
 Veiem que té una captura d'un correu enviat al seu company. El correu va per a un tal "Ricky77@gmail.com".  
 ![Alt Image](./Images/ImagesPractica2/capturaGmail.png)
@@ -117,6 +117,11 @@ Canvïo el numero i obro la imatge.
 ![Alt Image](./Images/ImagesPractica2/canviInsta.png)  
 ![Alt Image](./Images/ImagesPractica2/instaFinal.png)
 
+I finalment l'arxiu "Siguiente objetivo.exe" veiem que no és un exe sinó que és un word.
+![Alt Image](./Images/ImagesPractica2/fileEXE.png)  
+
+L'obrim i aconseguim tots els detalls del seguent objectiu. [Doc](./DOCs/SiguienteObjetivo.doc)
+![Alt Image](./Images/ImagesPractica2/docFinal.png)  
 
 
 ## 14
@@ -136,9 +141,22 @@ pruebas falsas o haber modificado algún archivo.
 7. Herramientas recomendadas:
 ```
 
-Autopsy Forensic.
-testdisk
-[https://hexed.it/](https://hexed.it/)
-WinRar
+
+## Conclusió
+```
+1. Quién es el nuevo cómplice de Martino Flores?
+El complice de Martino Flores és en Ricardo Garcia, ho hem trobat al veure la imatge de l'instagram.
+
+2. Qué banco será su próximo objetivo y que dia van a efectuar el nuevo golpe?
+El dia de l'objectiu és el 29/01/2019 i el banc objectiu és el Banco Santander de Barcelona. Això ho hem aconseguit al doc que hem trobat on està tots els passos que seguiran explicats.
+```
+
+
+
+
+
+
+
+
 
 
