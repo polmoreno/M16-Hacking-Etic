@@ -120,7 +120,7 @@ Canvïo el numero i obro la imatge.
 I finalment l'arxiu "Siguiente objetivo.exe" veiem que no és un exe sinó que és un word.
 ![Alt Image](./Images/ImagesPractica2/fileEXE.png)  
 
-L'obrim i aconseguim tots els detalls del seguent objectiu. [Doc](./DOCs/SiguienteObjetivo.doc)
+L'obrim i aconseguim tots els detalls del seguent objectiu. [Doc](./DOCs/siguienteObjetivo.doc)
 ![Alt Image](./Images/ImagesPractica2/docFinal.png)  
 
 
