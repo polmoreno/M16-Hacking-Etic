@@ -57,7 +57,7 @@ Podem llegir gran part del contingut de els Microsoft Words i també podem veure
 
 #### Des de una màquina Kali/Debian, executa el [foremost](https://www.kali.org/tools/foremost/), torna a carregar la imatge RAW anterior, analitzala i compara els resultats amb els obtinguts anteriorment
 
-Primer de tot he buscat informació de com funciona el foremost ja que no le utilitzat mai i seguidament he aconseguit el seguent:
+Primer de tot he buscat informació de com funciona el foremost ja que no le utilitzat mai i seguidament he aconseguit el seguent:  
 ![Alt Image](./Images/ImagesPractica1/foremost1.png)
 
 
