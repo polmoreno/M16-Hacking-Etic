@@ -4,6 +4,8 @@
 
 1. [Practica 1](Practica1.md)
 2. [Practica 2](Practica2.md)
+3. [Practica 3](Practica3.md)
+
 
 
 
