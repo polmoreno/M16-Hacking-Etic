@@ -67,10 +67,11 @@ Desde una màquina windows, baja e instala l'[Autopsy](https://www.autopsy.com/)
 
 Con este programa, carga la imagen RAW anterior, y analitzala.
 
-```
-¿Qué encuentras?
-¿Puedes leer alguna información? En caso afirmativo, ¿Cual?
-```
+Carraguem la imatge RAW a l'autopsy i ens troba el seguents arxius.
+![Alt Image](./Images/ImagesPractica2/autopsy.png)
+
+Seguidament és fer exactament el mateix que amb el testdisk.
+
 ## 13
 
 ## Análisis testdisk Linux
