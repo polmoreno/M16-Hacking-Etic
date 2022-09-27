@@ -34,8 +34,8 @@ a excepción de estas dos personas era una mujer reservada. Y tomando declaraci�
 supervisor de “Brenda” declaró que era una mujer trabajadora, que como habían dicho
 sus compañeros era reservada salvo esas dos personas mencionadas y que le sorprendió
 el manejo y conocimientos que tenía sobre informática, dado que le llevo relativamente
-1 dia para entender el funcionamiento de los programas de administración. Lo que tenía
-claro la policía es que quién fuera tuvo que tener ayuda para no ser detectado a
+1 dia para entender el funcionamiento de los programas de administración. 
+Lo que tenía claro la policía es que quién fuera tuvo que tener ayuda para no ser detectado a
 simple vista, así que tuvo que tener algún cómplice, esta conclusión encajaba bastante
 bien con el perfil de la sospechosa llamada “Brenda” pero no encontraban la relación
 entre una simple recepcionista y el director, cuál era su motivo, y si no fue ella,
