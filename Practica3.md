@@ -92,8 +92,23 @@ Però ens dona una nova carpeta amb més arxius però estan "buits" el que em fa
 A continuació obrim el MYSECRETS.z03 que en dona un poema.  
 ![Alt Image](./Images/ImagesPractica3/poema.png)
 
-Provo com a constrasenya per el zip les inicials de cada frase.  
+Provo com a constrasenya per el zip les inicials de cada frase (DEIFONTES). I ens dona els seguents arxius.  
 ![Alt Image](./Images/ImagesPractica3/unZipSecrets.png)
+
+A dins hi ha un arxiu anomenat "Pasos.txt". L'obrim.  
+![Alt Image](./Images/ImagesPractica3/pasos.png)
+
+Provo les inicials de les frases (EICEY) com a contrasenya per el zip que hi ha i funciona.  
+![Alt Image](./Images/ImagesPractica3/secretsFinal.png)
+
+Dins hi ha una imatge que ens dona una contrasenya i varies coses incriminatories.  
+![Alt Image](./Images/ImagesPractica3/extorsion.png)
+
+Provo la contrsenya "extorsion" a l'arxiu Bingo.odt. I aconseguim els datos personals del Miguel Angel Rodriguez Palo.  
+![Alt Image](./Images/ImagesPractica3/miguelAngel.png)
+
+Finalment també trobem una foto del DNI de la "brenda".
+![Alt Image](./Images/ImagesPractica3/brendaDNI.png)
 
 
 
