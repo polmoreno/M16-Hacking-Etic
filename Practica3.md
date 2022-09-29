@@ -70,29 +70,29 @@ Con este programa, carga la imagen RAW anterior, y analitzala.
 Desde una màquina Kali/Debian, ejecuta [testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download), vuelve a cargar la imagen RAW
 anterior, analitzala y compara los resultados.
 
-De seguida que executem el testdisk veiem que els arxius estaven borrats però nosaltres els recuparem.
+De seguida que executem el testdisk veiem que els arxius estaven borrats però nosaltres els recuparem.  
 ![Alt Image](./Images/ImagesPractica3/testdisk1.png)
 
-Ens baixem els arxius trobats per poder treballar-hi.
+Ens baixem els arxius trobats per poder treballar-hi.  
 ![Alt Image](./Images/ImagesPractica3/tree.png)
 
-Començarem fent un "file" a tots els arxius per veure si hem de tocar alguna cosa.
+Començarem fent un "file" a tots els arxius per veure si hem de tocar alguna cosa.  
 ![Alt Image](./Images/ImagesPractica3/fileTree.png)
 
-Corregim els arxius que estiguin equivocats per despistar.
+Corregim els arxius que estiguin equivocats per despistar.  
 ![Alt Image](./Images/ImagesPractica3/treeOK.png)
 
-A continuació obrim l'arxiu txt anomenat "EY.txt" on hi podem llegir una contrasenya.
+A continuació obrim l'arxiu txt anomenat "EY.txt" on hi podem llegir una contrasenya.  
 ![Alt Image](./Images/ImagesPractica3/Venganza.png)
 
 Provem de descomprimir el MYSECTRET.zip amb la contrasenya trobada anteriorment.
-Però ens dona una nova carpeta amb més arxius però estan "buits" el que em fa pensar que la contrasenya no era aquesta.
+Però ens dona una nova carpeta amb més arxius però estan "buits" el que em fa pensar que la contrasenya no era aquesta.  
 ![Alt Image](./Images/ImagesPractica3/unZipSecretsFile.png)
 
-A continuació obrim el MYSECRETS.z03 que en dona un poema.
+A continuació obrim el MYSECRETS.z03 que en dona un poema.  
 ![Alt Image](./Images/ImagesPractica3/poema.png)
 
-Provo com a constrasenya per el zip les inicials de cada frase.
+Provo com a constrasenya per el zip les inicials de cada frase.  
 ![Alt Image](./Images/ImagesPractica3/unZipSecrets.png)
 
 
