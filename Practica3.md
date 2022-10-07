@@ -56,11 +56,13 @@ Forensics / autopsy
 Desde una màquina windows, baja e instala l'[Autopsy](https://www.autopsy.com/)
 
 Con este programa, carga la imagen RAW anterior, y analitzala.
+![Alt Image](./Images/ImagesPractica3/autopsy.png)
 
 ```
 ¿Qué encuentras?
 ¿Puedes leer alguna información? En caso afirmativo, ¿Cual?
 ```
+***Es el mateix que amb el kali***
 ## 13
 
 ## Análisis testdisk Linux
