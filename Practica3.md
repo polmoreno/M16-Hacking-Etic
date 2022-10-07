@@ -12,8 +12,6 @@ Kali Linux
 Testdisk (command line)
 file, exiftool, 7zip...
 ```
-#### Lliureu un document en format PDF amb els passos que heu seguit i la resposta a les preguntes que es plantejen
-
 
 ## 11
 
@@ -111,23 +109,28 @@ Finalment també trobem una foto del DNI de la "brenda".
 ![Alt Image](./Images/ImagesPractica3/brendaDNI.png)
 
 
-
 ## 14
 
 ## Preguntas
 
 ```
-Que ha hecho la sospechosa con los archivos encontrados en el usb?
-Una vez resuelto la pregunta anterior, qué archivos encontraste que puedan
-tener relación con el incidente?
-Qué tipo de archivos sospechosos has encontrado? Qué hizo la sospechosa para
-dificultar su acceso?
-Qué datos cruciales has podido encontrar para declarar a “Brenda” la culpable?
-Qué técnica siguió usando la sospechosa para ocultar la contraseña para evitar
-el acceso directo a los demás archivos comprimidos?Cual era?
-Quién era su cómplice( si lo hubo)? Y porqué lo hizo?
-Qué esconde el archivo Bingo.odt, cómo supiste la contraseña?
-Finalmente cuál es el nombre de “Brenda” y qué motivos tuvo para hacerlo?
-Actualmente cuál es su paradero?
+● Que ha hecho la sospechosa con los archivos encontrados en el usb?  
+Ha eliminat els arxius de el usb.  
+● Una vez resuelto la pregunta anterior, qué archivos encontraste que puedan tener relación con el incidente?  
+Hi ha varis arxius que s'anomenen "MYSECRET" que em fa pensar que són els que tenen més relació amb l'incident.  
+● Qué tipo de archivos sospechosos has encontrado? Qué hizo la sospechosa para dificultar su acceso?  
+La sospitosa ha canviat els tipus d'arxius per despistar.  
+● Qué datos cruciales has podido encontrar para declarar a “Brenda” la culpable?  
+He trobat el seu dni juntament amb una foto compromesa i un correu incriminatori.  
+● Qué técnica siguió usando la sospechosa para ocultar la contraseña para evitar el acceso directo a los demás archivos comprimidos?Cual era?  
+Va utilitzar la tecnica de el acròstics (escriure un codi o contrasenya utilitzant les inicials de les frases).  
+● Quién era su cómplice( si lo hubo)? Y porqué lo hizo?  
+Marilyn Perez i ho va fer perque estava coaccionada per la "Brenda".  
+● Qué esconde el archivo Bingo.odt, cómo supiste la contraseña?
+Amaga els datos personals del Miguel Angel. La contrasenya estava escondida en format acròstics.  
+● Finalmente cuál es el nombre de “Brenda” y qué motivos tuvo para hacerlo?  
+El nom real és Carmen Muestra perque el director li va denegar la seva solicitut de prestam.  
+● Actualmente cuál es su paradero?  
+
 ```
 
