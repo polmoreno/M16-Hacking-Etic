@@ -43,7 +43,7 @@ profundo y no encontraron nada, pero descubrieron que en la parte trasera de la 
 se encontraba conectado un microUSB que al parecer la habian formateado. Pero tomando
 en consideración la declaración de su supervisor ella tenía muchos conocimientos de
 informatica, asi que te deja este usb para que lo investigues así que haces una copia
-de este mismo con lo que obtienes un fichero [RAW](./RAWs/usbBrenda) con el que averiguarás los secretos
+de este mismo con lo que obtienes un fichero [RAW](./RAWs/usbBrenda.raw) con el que averiguarás los secretos
 que esconde este incidente...
 
 ## 12
