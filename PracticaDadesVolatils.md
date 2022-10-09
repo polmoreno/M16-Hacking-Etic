@@ -13,110 +13,90 @@
 
 ## Introducció
 
-En aquesta pràctica realitzarem un anàlisi de les màquines en viu, es a dir, encesses,
-i observarem quins processos hi han corrent. Per això farem servir:
+En aquesta pràctica realitzarem un anàlisi de les màquines en viu, es a dir, encesses, i observarem quins processos hi han corrent. Per això farem servir:
 
 ```
-la suite SysInternals, de microsoft, per coenixer quins son els processos que
-estàn corrent.
-MDD, per fer volcats de la memoria RAM
-Volatility, per analtizarel volcat fet previament.
+La suite SysInternals, de microsoft, per coneixer quins son els processos que estàn corrent.
+MDD, per fer volcats de la memoria RAM Volatility, per analtizarel volcat fet previament.
 ```
+
 ## 2
 
 ## Análisis de conexions
 
-```
-Obrim la consola de windows
-```
+● Obrim la consola de windows
 ```
 C:\Windows\System32\cmd.exe
 ```
-```
-Ports i connexions oberts:
-```
+
+● Ports i connexions oberts:
 ```
 netstat -a
 ```
-```
-Tràfic per procés:
-```
+
+● Tràfic per procés:
 ```
 netstat -b
 ```
 
-```
-Estadístiques de connexions:
-```
+● Estadístiques de connexions:
 ```
 netstat -es
 ```
-```
-Conexions de NetBIOS:
-```
+
+● Conexions de NetBIOS:
 ```
 nbtstat -r
 ```
-```
-Caché de NetBIOS:
-```
+
+● Caché de NetBIOS:
 ```
 nbtstat -c
 ```
-```
-Configuración de la red:
-```
+
+● Configuración de la red:
 ```
 route PRINT
 ```
-```
-Interfaces de red:
-```
+
+● Interfaces de red:
 ```
 ipconfig /all
 ```
-```
-Recursos compartidos:
-```
+
+● Recursos compartidos:
 ```
 net SHARE
 ```
-```
-Obre un navegador y una terminal de comandes.
-Navega per les pàgines de “itb.cat” y comproba cóm la comanda “netstat –a” es
-va actualizant amb totes les noves connexions.
-```
+
+● Obre un navegador y una terminal de comandes.   
+● Navega per les pàgines de “itb.cat” y comproba cóm la comanda “netstat –a” es va actualizant amb totes les noves connexions.
+
 ## 3
 
 ## Anàlisi d'usuaris
 
-```
-Obrim una consola de Windows:
-```
+● Obrim una consola de Windows:
 ```
 C:\Windows\System32\cmd.exe
 ```
-```
-Usuaris de NetBIOS:
-```
+
+● Usuaris de NetBIOS:
 ```
 nbtstat -n
 ```
-```
-Usuaris de recursos compartits:
-```
+
+● Usuaris de recursos compartits:
 ```
 net USERS
 ```
-```
-Usuaris locals i remots:
-```
+
+● Usuaris locals i remots:
 ```
 [ruta]/SysinternalsSuite/PsLoggedon.exe
 ```
-```
-SID de usuarios:
-```
+
+● SID de usuarios:
 ```
 [ruta]/SysinternalsSuite /PsGetsid.exe
 ```
@@ -125,33 +105,28 @@ SID de usuarios:
 
 ## Anàlisis de serveis
 
-```
-Obrim una consola de Windows:
-```
+● Obrim una consola de Windows:
 ```
 C:\Windows\System32\cmd.exe
 ```
-```
-Serveis en execució:
-```
+
+● Serveis en execució:
 ```
 [ruta]/SysinternalsSuite /PsService.exe
 ```
-```
-Processos actius:
-```
+
+● Processos actius:
 ```
 [ruta]/SysinternalsSuite /PsList.exe
 ```
-```
-Events del sistema:
-```
+
+● Events del sistema:
 ```
 [ruta]/SysinternalsSuite /PsLoglist.exe
 ```
-```
-Obrim Wordpad: Inicio > Wordpad: Executem psList.exe per comprobar el procés.
-```
+
+● Obrim Wordpad: Inicio > Wordpad: Executem psList.exe per comprobar el procés.
+
 ## 5
 
 ## Análisis de memoria
@@ -159,17 +134,17 @@ Obrim Wordpad: Inicio > Wordpad: Executem psList.exe per comprobar el procés.
 · Windows
 
 ```
-Descarrega l'última versió de ftk imager, dumpit i volatility, investiga com
-obtenir la informació següent:
+Descarrega l'última versió de ftk imager, dumpit i volatility, investiga com obtenir la informació següent:
 ```
+
 ```
-Realitza un volcat de la memoria sobre un arxiu(amb dumpit i ftk imager), pots
-obrir el teu compte de correu per investigarlo més endavant.
+Realitza un volcat de la memoria sobre un arxiu(amb dumpit i ftk imager), pots obrir el teu compte de correu per investigarlo més endavant.
 ```
+
 ```
-Anàlisis el volcat amb Volatility. (Per realitzar l'anàlisis ho farem més
-comodament en un sistema linux per no haber d'instal·lar python3 a windows)
+Anàlisis el volcat amb Volatility. (Per realitzar l'anàlisis ho farem més comodament en un sistema linux per no haber d'instal·lar python3 a windows)
 ```
+
 ```
 1. Comprova la versió de volaitily
 2. Obteniu informació de la imatge.
