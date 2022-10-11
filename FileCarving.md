@@ -3,13 +3,13 @@
 Eines a utilitzar
 
 ```
-xxd
-tr
-grep
-dd
-echo
-bc
-cut
+● xxd
+● tr
+● grep
+● dd
+● echo
+● bc
+● cut
 ```
 
 ## 1
@@ -41,11 +41,12 @@ Llavors, ¿hi ha un [magic number](https://asecuritysite.com/forensics/magic) pe
 ```
 xxd imagen | sed 's/ //g' | grep 89504e
 ```
-
+```
 ● La primera columna ens indica la posició dels bytes dins el fitxer  
 ● L'última el codi ascii  
 ● Les intermitjes, el valor hexadecimal  
-
+```
+`
 Tenint en compte que la primera columna de xxd ens mostra la posició dins del fitxer
 haurem de guardar el número i convertir-lo a decimal
 
