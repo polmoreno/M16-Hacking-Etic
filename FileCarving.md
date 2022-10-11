@@ -1,6 +1,6 @@
 ## UF1: File Carving
 
-Eines a utilitzar
+Eines a utilitzar:
 
 ```
 ● xxd
