@@ -133,6 +133,6 @@ Amaga els datos personals del Miguel Angel. La contrasenya estava escondida en f
 ● Finalmente cuál es el nombre de “Brenda” y qué motivos tuvo para hacerlo?  
 El nom real és Carmen Muestra perque el director li va denegar la seva solicitut de prestam.  
 ● Actualmente cuál es su paradero?  
-
+Castellfollit.
 ```
 
