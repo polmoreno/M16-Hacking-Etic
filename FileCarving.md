@@ -46,7 +46,7 @@ xxd imagen | sed 's/ //g' | grep 89504e
 ● L'última el codi ascii  
 ● Les intermitjes, el valor hexadecimal  
 ```
-`
+
 Tenint en compte que la primera columna de xxd ens mostra la posició dins del fitxer
 haurem de guardar el número i convertir-lo a decimal
 
