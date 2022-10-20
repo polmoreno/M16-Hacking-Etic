@@ -186,7 +186,7 @@ Anàlisis el volcat amb Volatility. (Per realitzar l'anàlisis ho farem més com
 ![Alt Image](./Images/ImagesDadesVolatils/13.png)  
 
 14. Imprimeix una clau específica del registre de Windows.  
-<!---![Alt Image](./Images/ImagesDadesVolatils/14.png)-->  
+[Alt Image](./Images/ImagesDadesVolatils/14.png)
 
 15. Imprimeix una clau, subclaus i valors específics del Registre de Windows.  
 ![Alt Image](./Images/ImagesDadesVolatils/15.png)  
