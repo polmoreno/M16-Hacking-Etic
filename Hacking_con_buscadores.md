@@ -105,20 +105,36 @@ __has_screenshot__ : Mostra dispositius dels quals hi ha captura de pantalla. ha
 **1.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
 i mostra el primer resultat.**
 
-● Allintext:  
-● Allintitle:  
+● Allintext:  Serveix per localitzar pàgines web amb el terme de cerca al seu text. Exemple: allintext:seat ibiza.  
+![Alt image](./Images/ImagesBuscadors/allintext.png)
+
+● Allintitle:  Serveix per trobar pàgines web amb el terme de cerca que aparegui al títol del text. Exemple: allintitle:pol moreno    
+![Alt image](./Images/ImagesBuscadors/allintitle.png)
+
 ● Intitle:  
+
 ● Allinurl:  
+
 ● Inurl:  
+
 ● Author:  
+
 ● Cache:  
+
 ● Link:  
+
 ● Related:  
+
 ● filetype:  
+
 ● OR:  
+
 ● AND:  
+
 ● |:  
+
 ● -:  
+
 ● +:  
 
 **1.2. Fés una cerca per a fitxers pdf dintre de dominis .edu.**
