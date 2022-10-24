@@ -20,40 +20,26 @@ No tots els operadors estàn implementats a tots els cercadors
 
 Bing Google DuckDuckGo
 
-```
-"" (cometes): buscar la frase exacte
-and or not : operadors lògics “i” o “no”
-+ i - : incloure i excloure. Ex: "jaguar -cotxes": busca la paraula “jaguar”,
-pero omit les webs amb la paraula cotxes
-* (asterisc): comodí, qualsevol paraula, pero només una paraula
-```
-**.** (punt): comodí, qualsevol paraula, una o moltes
-**site** : només busca resultats dintre de la web que va darrera de “site:”
-**filetype** : només busca arxius de un tipus (doc, xls, txt...)
-**link** : només busca en pàgines que tenen un link a una determinada url
-**inanchor** : només busca en pàgines que tenen en el text de enllaç la expresió
-cercada
-**Allintext** :text-> Aquest operador cerca una cadena en el text, dintre de una
-pàgina web, i no a la url. Es exclusiu.
-**Allintitle** :text → Cerca una cadena de text, només dintre del títol de la web.
-Es exclusiu.
-**Intitle** :text → Cerca una cadena de text dintre del títol de una web. Es
-inclusiu, es pot utilitzar amb altres.
-**Allinurl** :text → Cerca una cadena de text només en la url. Es exclusiu
-**Inurl** :text → Cerca una cadena de text en la url. Es inclusiu, es pot utilitzar
-amb altres.
-**Author** :text → Cerca artícles o noticies escrits pel nom o la direcció de correu
-indicada. Es inclusiu, es pot utilitzar amb altres.
-**Cache** :domini.com → Amb aquest operador accedim a la web que Google té guardada
-en la seva cache. Es util, si cerces informació que ha estat esborrada i Google
 
+● "" (cometes): buscar la frase exacte  
+● __and__ or __not__ : operadors lògics “i” o “no”  
+● __+__ i __-__ : incloure i excloure. Ex: "jaguar -cotxes": busca la paraula “jaguar”, pero omit les webs amb la paraula cotxes  
+● __*__ (asterisc): comodí, qualsevol paraula, pero només una paraula  
+● __.__ (punt): comodí, qualsevol paraula, una o moltes  
+● __site__ : només busca resultats dintre de la web que va darrera de “site:”  
+● __filetype__ : només busca arxius de un tipus (doc, xls, txt...)  
+● __link__ : només busca en pàgines que tenen un link a una determinada url  
+● __inanchor__ : només busca en pàgines que tenen en el text de enllaç la expresió cercada  
+● __Allintext__ :text-> Aquest operador cerca una cadena en el text, dintre de una pàgina web, i no a la url. Es exclusiu.  
+● __Allintitle__ :text → Cerca una cadena de text, només dintre del títol de la web. Es exclusiu.  
+● __Intitle__ :text → Cerca una cadena de text dintre del títol de una web. Es inclusiu, es pot utilitzar amb altres.  
+● __Allinurl__ :text → Cerca una cadena de text només en la url. Es exclusiu  
+● __Inurl__ :text → Cerca una cadena de text en la url. Es inclusiu, es pot utilitzar amb altres.  
+● __Author__ :text → Cerca artícles o noticies escrits pel nom o la direcció de correu indicada. Es inclusiu, es pot utilitzar amb altres.  
+● __Cache__ :domini.com → Amb aquest operador accedim a la web que Google té guardada en la seva cache. Es util, si cerces informació que ha estat esborrada i Google no ha refrescat la caché. Es exclusiu.  
+● __Link__ :domini.com Aquest operador es fa servir per buscar enllaços que apuntin a una web. Es exclusiu.  
+● __Related__ :domini.com Busca paginas relacionadas. Es exclusiu.  
 
-```
-no ha refrescat la caché. Es exclusiu.
-Link :domini.com Aquest operador es fa servir per buscar enllaços que apuntin a
-una web. Es exclusiu.
-Related :domini.com Busca paginas relacionadas. Es exclusiu.
-```
 **Operadors de cerca**
 
 **Buscant por IPs.**
