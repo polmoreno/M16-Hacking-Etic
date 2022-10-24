@@ -18,7 +18,7 @@
 
 No tots els operadors estàn implementats a tots els cercadors
 
-[Bing](https://www.bing.com) [Google](https://www.google.com) [DuckDuckGo](https://duckduckgo.com/)
+[Bing](https://www.bing.com) | [Google](https://www.google.com) | [DuckDuckGo](https://duckduckgo.com/)
 
 ● "" (cometes): buscar la frase exacte  
 ● __and__ or __not__ : operadors lògics “i” o “no”  
