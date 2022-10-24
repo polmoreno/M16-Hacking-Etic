@@ -12,14 +12,6 @@
 
 ## Comandes
 
-## 2
-
-## Buscadors comercials (Bing/Google/DuckduckGo)
-
-No tots els operadors estàn implementats a tots els cercadors
-
-[Bing](https://www.bing.com) | [Google](https://www.google.com) | [DuckDuckGo](https://duckduckgo.com/)
-
 ● "" (cometes): buscar la frase exacte  
 ● __and__ or __not__ : operadors lògics “i” o “no”  
 ● __+__ i __-__ : incloure i excloure. Ex: "jaguar -cotxes": busca la paraula “jaguar”, pero omit les webs amb la paraula cotxes  
@@ -38,6 +30,14 @@ No tots els operadors estàn implementats a tots els cercadors
 ● __Cache__ :domini.com → Amb aquest operador accedim a la web que Google té guardada en la seva cache. Es util, si cerces informació que ha estat esborrada i Google no ha refrescat la caché. Es exclusiu.  
 ● __Link__ :domini.com Aquest operador es fa servir per buscar enllaços que apuntin a una web. Es exclusiu.  
 ● __Related__ :domini.com Busca paginas relacionadas. Es exclusiu.  
+
+## 2
+
+## Buscadors comercials (Bing/Google/DuckduckGo)
+
+No tots els operadors estàn implementats a tots els cercadors
+
+[Bing](https://www.bing.com) | [Google](https://www.google.com) | [DuckDuckGo](https://duckduckgo.com/)
 
 
 **Operadors de cerca**
