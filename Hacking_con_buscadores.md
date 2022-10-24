@@ -105,21 +105,21 @@ __has_screenshot__ : Mostra dispositius dels quals hi ha captura de pantalla. ha
 **1.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
 i mostra el primer resultat.**
 
-● Allintext:
-● Allintitle:
-● Intitle:
-● Allinurl:
-● Inurl:
-● Author:
-● Cache:
-● Link:
-● Related:
-● filetype:
-● OR :
-● AND:
-● |:
-● -:
-● +:
+● Allintext:  
+● Allintitle:  
+● Intitle:  
+● Allinurl:  
+● Inurl:  
+● Author:  
+● Cache:  
+● Link:  
+● Related:  
+● filetype:  
+● OR:  
+● AND:  
+● |:  
+● -:  
+● +:  
 
 **1.2. Fés una cerca per a fitxers pdf dintre de dominis .edu.**
 
@@ -128,15 +128,15 @@ i mostra el primer resultat.**
 **2.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
 i mostra el primer resultat**
 
-● ip:
-● loc:
-● site:
-● intitle:
-● inbody:
-● inanchor:
-● hasfeed:
-● Filetype:
-● Inurl:
+● ip:  
+● loc:  
+● site:  
+● intitle:  
+● inbody:  
+● inanchor:  
+● hasfeed:  
+● Filetype:  
+● Inurl:  
 
 **2.2. ¿Què podem trobar entre google i bing, tant a l'hora de la cerca com a l'hora de
 indexar?**  
@@ -155,16 +155,16 @@ resultats, puc veure els mateixos resultats? similars?)**
 **3.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
 i mostra el primer resultat**
 
-● country:
-● city:
-● port:
-● net:
-● hostname:
-● geo:
-● os:
-● after:
-● before:
-● has_screenshot:
+● country:  
+● city:  
+● port:  
+● net:  
+● hostname:  
+● geo:  
+● os:  
+● after:  
+● before:  
+● has_screenshot:  
 
 ## 5
 
