@@ -7,6 +7,8 @@
 3. [Practica 3](Practica3.md)
 4. [Practica Dades Volatils](PracticaDadesVolatils.md)
 5. [File Carving](FileCarving.md)
+6. [Hacking con buscadores](Hacking_con_buscadores.md)
+
 
 
 
