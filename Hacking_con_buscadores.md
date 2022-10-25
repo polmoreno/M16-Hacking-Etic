@@ -150,7 +150,7 @@ i mostra el primer resultat.**
 ● +:  Força una cerca de concordança exacta en una sola paraula o frase. Exemple: apple +iphone  
 ![Alt image](./Images/ImagesBuscadors/mes.png)
 
-**1.2. Fés una cerca per a fitxers pdf dintre de dominis .edu.**
+**1.2. Fés una cerca per a fitxers pdf dintre de dominis .edu.**  
 ![Alt image](./Images/ImagesBuscadors/edu.png)  
   
 ### Bing
