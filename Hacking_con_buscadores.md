@@ -111,43 +111,43 @@ i mostra el primer resultat.**
 ● Allintitle:  Serveix per trobar pàgines web amb el terme de cerca que aparegui al títol del text. Exemple: allintitle:pol moreno    
 ![Alt image](./Images/ImagesBuscadors/allintitle.png)
 
-● Intitle:  Cerca pàgines amb certes paraules al títol. Exemple: intitle:manzana
+● Intitle:  Cerca pàgines amb certes paraules al títol. Exemple: intitle:manzana  
 ![Alt image](./Images/ImagesBuscadors/intitle.png)
 
-● Allinurl:  Només es retornaran els resultats que continguin totes les paraules especificades a l'URL. Exemple: allinurl:apple iphone
+● Allinurl:  Només es retornaran els resultats que continguin totes les paraules especificades a l'URL. Exemple: allinurl:apple iphone  
 ![Alt image](./Images/ImagesBuscadors/allinurl.png)
 
-● Inurl:  Cerca pàgines amb una paraula determinada a l'URL. Exemple: inurl:patata
+● Inurl:  Cerca pàgines amb una paraula determinada a l'URL. Exemple: inurl:patata  
 ![Alt image](./Images/ImagesBuscadors/inurl.png)
 
-● Author:  Cerca autors. Exemple: author:dali
+● Author:  Cerca autors. Exemple: author:dali  
 ![Alt image](./Images/ImagesBuscadors/intitle.png)
 
-● Cache:  Retorna la versió emmagatzemada a la memòria cache més recent d'una pàgina web. Exemple: cache:wikipedia.com
+● Cache:  Retorna la versió emmagatzemada a la memòria cache més recent d'una pàgina web. Exemple: cache:wikipedia.com  
 ![Alt image](./Images/ImagesBuscadors/cache.png)
 
-● Link:  Cerca pàgines que enllacen amb el domini. Exemple: link:apple.com
+● Link:  Cerca pàgines que enllacen amb el domini. Exemple: link:apple.com  
 ![Alt image](./Images/ImagesBuscadors/link.png)
 
-● Related:  Troba dominis similars al domini consultat. Exemple: related:apple.com
+● Related:  Troba dominis similars al domini consultat. Exemple: related:apple.com  
 ![Alt image](./Images/ImagesBuscadors/related.png)
 
-● filetype:  Retorna només fitxers d'un tipus determinat associat la paraula clau cercada. Exemple: filetype:pdf
+● filetype:  Retorna només fitxers d'un tipus determinat associat la paraula clau cercada. Exemple: filetype:pdf  
 ![Alt image](./Images/ImagesBuscadors/filetype.png)
 
-● OR:  Cerqueu X o Y. Això tornarà resultats relacionats amb X o Y, o ambdós. Exemple: patata OR zanahoria
+● OR:  Cerqueu X o Y. Això tornarà resultats relacionats amb X o Y, o ambdós. Exemple: patata OR zanahoria  
 ![Alt image](./Images/ImagesBuscadors/OR.png)
 
-● AND:  Cerqueu X i Y. Això només retornarà resultats relacionats amb X i Y. Exemple: plata AND plomo 
+● AND:  Cerqueu X i Y. Això només retornarà resultats relacionats amb X i Y. Exemple: plata AND plomo   
 ![Alt image](./Images/ImagesBuscadors/AND.png)
 
-● |:  El mateix que OR. Exemple: patata|zanahoria
+● |:  El mateix que OR. Exemple: patata|zanahoria  
 ![Alt image](./Images/ImagesBuscadors/pipe.png)
 
-● -:  Exclou una paraula dels resultats. Exemple: apple -iphone 
+● -:  Exclou una paraula dels resultats. Exemple: apple -iphone   
 ![Alt image](./Images/ImagesBuscadors/exclude.png)
 
-● +:  Força una cerca de concordança exacta en una sola paraula o frase. Exemple: apple +iphone
+● +:  Força una cerca de concordança exacta en una sola paraula o frase. Exemple: apple +iphone  
 ![Alt image](./Images/ImagesBuscadors/mes.png)
 
 **1.2. Fés una cerca per a fitxers pdf dintre de dominis .edu.**
