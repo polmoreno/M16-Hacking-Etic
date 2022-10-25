@@ -151,7 +151,8 @@ i mostra el primer resultat.**
 ![Alt image](./Images/ImagesBuscadors/mes.png)
 
 **1.2. Fés una cerca per a fitxers pdf dintre de dominis .edu.**
-
+![Alt image](./Images/ImagesBuscadors/edu.png)  
+  
 ### Bing
 
 **2.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
