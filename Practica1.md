@@ -133,3 +133,81 @@ He trobat un document Excel incriminatori, ja que hi ha escrit "This is evidence
 4. Ho podries demostrar devant del Jutge?  
 Ho podria presentar tot davant del jutge ja que està tot ben documentat i guardat.
 ```
+
+
+
+
+import pygame
+
+# Initialize Pygame and set up the window
+pygame.init()
+screen = pygame.display.set_mode((300, 600))
+
+# Set up the Tetris board
+board_width = 10
+board_height = 20
+board = []
+for i in range(board_height):
+    board.append([0] * board_width)
+
+# Set up the Tetrominoes
+tetrominoes = [
+    [[1, 1, 1],
+     [0, 1, 0]],
+    [[0, 2, 2],
+     [2, 2, 0]],
+    [[3, 3, 0],
+     [0, 3, 3]],
+    [[4, 0, 0],
+     [4, 4, 4]],
+    [[0, 0, 5],
+     [5, 5, 5]],
+    [[6, 6, 6, 6]],
+    [[7, 7],
+     [7, 7]]
+]
+
+# Set up the current Tetromino and its position
+current_tetromino = tetrominoes[0]
+current_x = 3
+current_y = 0
+
+# Set up the game loop
+while True:
+    # Handle events
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            sys.exit()
+
+    # Update the board
+    board[current_y][current_x] = current_tetromino
+    current_y += 1
+
+    # Check if the Tetromino has reached the bottom of the board
+    if current_y + len(current_tetromino) >= board_height:
+        current_y -= 1
+        for i in range(len(current_tetromino)):
+            for j in range(len(current_tetromino[i])):
+                if current_tetromino[i][j] != 0:
+                    board[current_y + i][current_x + j] = current_tetromino[i][j]
+        current_tetromino = tetrominoes[0]
+        current_x = 3
+        current_y = 0
+
+    # Draw the board
+    for y in range(board_height):
+        for x in range(board_width):
+            color = (0, 0, 0)
+            if board[y][x] == 1:
+                color = (255, 0, 0)
+            elif board[y][x] == 2:
+                color = (0, 255, 0)
+            elif board[y][x] == 3:
+                color = (0, 0, 255)
+            elif board[y][x] == 4:
+                color = (255, 255, 0)
+            elif board[y][x] == 5:
+                color = (0, 255, 255)
+           
+
