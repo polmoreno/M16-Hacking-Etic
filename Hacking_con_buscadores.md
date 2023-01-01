@@ -158,15 +158,33 @@ i mostra el primer resultat.**
 **2.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
 i mostra el primer resultat**
 
-● ip:  
-● loc:  
-● site:  
-● intitle:  
-● inbody:  
-● inanchor:  
-● hasfeed:  
-● Filetype:  
-● Inurl:  
+● ip:  Busca per IP. Exemple: ip:192.168.1.1
+![Alt image](./Images/ImagesBuscadors/bing-ip.png)
+
+● loc:  Busca la localitzacióde país: Exemple: loc:es
+![Alt image](./Images/ImagesBuscadors/bing-loc.png)
+
+● site:  Busca la pagina web. Exemple: site:polmorenobatlle.com
+![Alt image](./Images/ImagesBuscadors/bing-site.png)
+
+● intitle:  Busca el contingut al titol de la pagina web. Exemple: intitle:pol moreno
+![Alt image](./Images/ImagesBuscadors/bing-intittle.png)
+
+● inbody:  Busca que la paraula o frase estigui al body de la pagina web. Exemple: inbody:barcelona
+![Alt image](./Images/ImagesBuscadors/bing-inbody.png)
+
+● inanchor:  Busca que la paraula estigui a l'adreça url. Exemple: inanchor:castell
+![Alt image](./Images/ImagesBuscadors/bing-inanchor.png)
+
+● hasfeed:  Busca pàgines que enllaçen amb feeds que contenen la paraula clau especificada. Exemple: hasfeed:cyber attacks
+![Alt image](./Images/ImagesBuscadors/bing-hasfeed.png)
+
+● Filetype:  Busca segons el tipus de fitcher que es demani. Exemple: filetype:pdf
+![Alt image](./Images/ImagesBuscadors/bing-filetype.png)
+
+● Inurl:  Busca que la paraula clau estigui a l'url. Exemple: inurl:noticia
+![Alt image](./Images/ImagesBuscadors/bing-inurl.png)
+
 
 **2.2. ¿Què podem trobar entre google i bing, tant a l'hora de la cerca com a l'hora de
 indexar?**  
