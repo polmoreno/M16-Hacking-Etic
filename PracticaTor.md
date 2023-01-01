@@ -107,11 +107,15 @@ ubuntu para navegar tanto desde el root como con nuestro usuario por la red tor.
 
 Si vols navegar per la xarxa Tor utilitzant un altre navegador, com Firefox, has de configurar-lo manualment perquè utilitzi el servidor intermediari de Tor. Per fer-ho, segueix aquests passos:    
 
-1.Obre Firefox i vés a "Opcions" al menú de l'esquerra.  
-2.Aneu a "Xarxa" i després a "Configuració del servidor intermediari".  
-3.Seleccioneu "Manual" a la llista desplegable "Mètode de configuració del servidor intermediari".  
-4.Al camp "Servidor intermediari HTTP", escriu "localhost" i al camp "Port", escriu "9150".  
-5.Feu clic a "D'acord" per desar els canvis.  
+1. Obre Firefox i vés a "Opcions" al menú de l'esquerra.  
+
+2. Aneu a "Xarxa" i després a "Configuració del servidor intermediari".  
+
+3. Seleccioneu "Manual" a la llista desplegable "Mètode de configuració del servidor intermediari".  
+
+4. Al camp "Servidor intermediari HTTP", escriu "localhost" i al camp "Port", escriu "9150".  
+
+5. Feu clic a "D'acord" per desar els canvis.  
 
 Ara podeu començar a navegar per la xarxa Tor utilitzant Firefox. Recorda que has de tenir el servei de Tor iniciat a la terminal perquè això funcioni.
 
