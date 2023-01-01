@@ -161,7 +161,7 @@ i mostra el primer resultat**
 ● ip:  Busca per IP. Exemple: ip:192.168.1.1
 ![Alt image](./Images/ImagesBuscadors/bing-ip.png)
 
-● loc:  Busca la localitzacióde país: Exemple: loc:es
+● loc:  Busca la localització de país: Exemple: loc:es
 ![Alt image](./Images/ImagesBuscadors/bing-loc.png)
 
 ● site:  Busca la pagina web. Exemple: site:polmorenobatlle.com
@@ -190,7 +190,7 @@ i mostra el primer resultat**
 indexar?**  
 
 **2.3. Agafa algunes de las anterios recercas de google i comparalas amb bing(número de
-resultats, puc veure els mateixos resultats? similars?)**  
+resultats, puc veure els mateixos resultats? similars?**  
 
 ### Duckduckgo
 
@@ -203,19 +203,24 @@ resultats, puc veure els mateixos resultats? similars?)**
 **3.1 Explica per a que serveix cada una de les següents paraules clau. Posa un exemple
 i mostra el primer resultat**
 
-● country:  
-● city:  
-● port:  
-● net:  
-● hostname:  
-● geo:  
-● os:  
-● after:  
-● before:  
-● has_screenshot:  
+● country: per cercar en un pais especific. Exemple: country:py
 
-## 5
+● city: Filtra per ciutat. Exemple: city:”Los Angeles”
 
-## Bibliografia
+● port: Per cercar dispositius que tinguin un port especific obert. Exemple: port:3306
 
+● net: Cerca de una ip específica o rangs de ip. Exemple: ip:182.93.44.0/24
+
+● hostname: Cerca el text que indiquem en el nom del host. Exemple: hostname:iplocal
+
+● geo: Cercar dispositius mitjançant coordenades. Exemple: geo:32.9775,-70.1293
+
+● os: Per llistar un sistema operativo determinado. Exemple: os:Linux
+
+● after: Dispositius afegits després de una data.
+
+● before: Dispositius afegits abans de una data. Exemple: after/before:27/03/2015
+
+● has_screenshot: Mostra dispositius dels quals hi ha captura de pantalla. Exemple: has_screenshot:true  
+ 
 
