@@ -1,8 +1,6 @@
-# MÒDUL 16 – UF
+# UF2: Cercant informació
 
-# Red tor
-
-## Víctor Marquina
+## Red tor
 
 ## Index de continguts
 
@@ -14,9 +12,9 @@
 
 ## 1
 
-¿Qué es un proxy?
+● ¿Qué es un proxy?
 
-Tipos de proxy
+● Tipos de proxy
 
 ```
 cache
@@ -25,35 +23,34 @@ web
 transparente
 socks
 ```
+
 ## 2
+● ¿Qué es una vpn?
 
-¿Qué es una vpn?
-
-Diferencia entre proxy y vpn
+● Diferencia entre proxy y vpn
 
 ## 3
-
-¿Qué es la darkweb y la deepweb?
+● ¿Qué es la darkweb y la deepweb?
 
 ## 4
+● ¿Qué es la red tor?
 
-¿Qué es la red tor?
-
-¿Cómo funciona la red tor?(indica los pasos desde que entra una petición y se
+● ¿Cómo funciona la red tor?(indica los pasos desde que entra una petición y se
 resuelve)
 
-¿Qué es un nodo?
+● ¿Qué es un nodo?
 
 ```
 entrada
 salida
 medio
 ```
-¿Qué problemas nos puede causar ser dueños de un nodo de salida?
 
-¿Qué seguridad nos da tor?
+● ¿Qué problemas nos puede causar ser dueños de un nodo de salida?
 
-¿Qué debemos tener en cuenta para mantener el anonimato en la red tor?
+● ¿Qué seguridad nos da tor?
+
+● ¿Qué debemos tener en cuenta para mantener el anonimato en la red tor?
 
 
 Indica los pasos para conseguir instalar y configurar todo lo necesario en una máquina
@@ -61,6 +58,3 @@ ubuntu para navegar tanto desde el root como con nuestro usuario por la red tor.
 
 Explica como configurar el navegador para navegar por la red tor.
 
-## 5
-
-Webgrafia
